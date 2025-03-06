@@ -13,34 +13,6 @@
 
 ## Подсказки
 
-- width="300"
-- src="image.jpg"
-- controls
-- src="video.mp4"
-- border="1"
-- href="https://example.com"
-- src="audio.mp3"
-- height="200"
-- type="text"
-- content="Описание страницы"
-- cellspacing="5"
-- alt="Описание изображения"
-- name="username"
-- autoplay
-- name="description"
-- controls
-- src="https://example.com"
-- action="submit.php"
-- charset="UTF-8"
-- method="POST"
-- height="400"
-- placeholder="Введите имя"
-- target="\_blank"
-- width="600"
-- loop
-- cellpadding="5"
-- type="submit"
-- title="Пример страницы"
 
 ## Как сдавать
 
